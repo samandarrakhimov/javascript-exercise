@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: bisque;
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.ul {
+    width: 40%;}
+   
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    font-size: 24px ;
+    color: aqua;
+
+}
+ul a{
+    text-decoration: none;
+}
+.text p{
+    font-size: 40px;
+    color: cadetblue;
+    font-weight: 700;
+
+
+}
+.btn{
+}
+.btn button{
+    width: 90px;
+    height: 30px;
+    color: aquamarine;
+    background-color: cadetblue;
+    border: 2px solid aqua;
+
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 10%;
+}
+.box1 img{
+    width: 15vw;
+    height: 15vh;
+    
+}
+.box1{
+    border: 2px solid aqua;
+    background-color: rgb(7, 108, 108);
+    width: 30vw;
+    height: 30vh;
+    text-align: center;
+}
+.box1 button{
+    width: 150px;
+    height: 40px;
+    color: aquamarine;
+    background-color: cadetblue;
+    border: 2px solid aqua;
+    margin-top: 5%;
+
+}
